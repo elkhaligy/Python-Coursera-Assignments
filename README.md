@@ -1,1 +1,1 @@
-# python-datastructures-michigan
+# Python Datastructures from Michigan University
